@@ -6,3 +6,4 @@ Features of the applications
 2) You can enter manually IP address to connect if you want
 3) Text message send over the WiFi
 4) This is the Server Application you required Client application to established connection.
+5) Link is https://github.com/sumit-pc/WIFI-Chat-Application-with-Autoconnect-Part-Client
